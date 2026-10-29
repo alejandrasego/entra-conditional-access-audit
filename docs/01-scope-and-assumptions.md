@@ -15,4 +15,4 @@ Production tenants, real user data, third-party identity providers, and anything
 - **Simulated signals:** Sign-in risk and device compliance are simulated. Document exactly how each was simulated and what that does and does not prove.
 
 ## Remaining risk (to complete after testing)
-List the risks that remain after the policies are applied, such as stolen session tokens, MFA fatigue attacks, and compromised compliant devices, along with the threshold at which the risk is considered acceptable.
+List the risks that remain after the policies are applied, such as stolen session tokens, MFA fatigue attacks, and compromised compliant devices, along with the threshold at which the risk is considered acceptable. 
